@@ -1,3 +1,6 @@
+This is a modification of rp-radio to work with a radio item. It was tested with ESX v1 Final and it worked fine. If you have the item you can use the radio, if you don't, you can't, as simple as that. You must add an item with radio as its name to your items table in your database for this to work
+
+
 # rp-radio
 An in-game radio which makes use of the mumble-voip radio API for FiveM
 
