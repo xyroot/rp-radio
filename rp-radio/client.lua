@@ -27,7 +27,7 @@ local Radio = {
 Citizen.CreateThread(function()
     while True do
         TriggerServerEvent("checkradio")
-        Citizen.Wait(5)
+        Citizen.Wait(200)
     end
 end)
 
